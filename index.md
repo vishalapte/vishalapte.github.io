@@ -4,10 +4,25 @@
 
 1. [Sitemap](#sitemap)
 2. [robots.txt](#robotstxt)
+   - [twitterbot](#twitterbot)
+   - [testing robots.txt](#test-your-robotstxt)
 3. [Security](#security)
+   - [Configuring SPF](#spf)
+   - [Configuring Apache](#apache)
 4. [Meta Information](#meta-information)
+   - [Description](#description)
+   - [Facebook Open Graph](#facebook-open-graph)
+   - [Twitter Cards](#twitter-cards)
+   - [Canonical URLs](#canonical-urls)
 5. [Social Media](#social-media)
+   - [Email](#email)
+   - [LinkedIn](#linkedin)
+   - [Twitter](#twitter)
+   - [Facebook](#facebook)
+   - [Instagram](#instagram)
 6. [Directory Listings](#directory-listings)
+   - [Google _My Business_](#google-my-business)
+   - [Bing _Places_](#bing-places)
 
 ## Sitemap
 
@@ -150,7 +165,7 @@ Will default to Open Graph protocol if not defined...
 
 > Twitter [Card Validator](https://cards-dev.twitter.com/validator)
 
-### Canonical URLs [Advanced SEO]
+### Canonical URLs
 
 > https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls
 
@@ -167,7 +182,7 @@ and can deliver better search results.
 
 ## Social Media
 
-### Google Email
+### Email
 
 Create a google email account that reflects the handle you wish to use,
 and is available, on all your other social media accounts.
