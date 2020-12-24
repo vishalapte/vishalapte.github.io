@@ -101,9 +101,15 @@ Active sentences are good. Short sentences that communicate simply and clearly a
 
 > Example: BatteryOS is an operating system for the future of energy.
 
-### Canonical href
-
 ### Facebook Open Graph
+
+```html
+<!-- Facebook Open Graph -->
+<meta property="og:url" content="canonical_url_is_best"/>
+<meta property="og:title" content="page_title"/>
+<meta property="og:description" content="meta_description"/>
+<meta property="og:image" content="url_cover_image_or_logo"/>
+```
 
 ### Twitter Cards
 
@@ -115,9 +121,49 @@ Add twitter card meta headers. It's an easy way to make sure that your card look
 
 > https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
 
+**Example:**
+
+```html
+<!-- Twitter Card -->
+<!-- twitter:card = [summary|summary_large_image|app|player]-->
+<meta name="twitter:card" content="summary"/>
+<!-- site and side:id are congruent -->
+<meta name="twitter:site" content="@twitter_handle"/>
+<meta name="twitter:site:id" content="@twitter_handle"/>
+<!-- creator and creator:id are congruent -->
+<meta name="twitter:creator" content="@twitter_handle"/>
+<meta name="twitter:creator:id" content="@twitter_handle"/>
+```
+
+```html
+<meta name="twitter:title" content="page_title"/>
+<meta name="twitter:description" content="meta_description"/>
+<meta name="twitter:image" content="url_cover_image_or_logo"/>
+```
+
+Will default to Open Graph protocol if not defined...
+- twitter:title &rightarrow; og:title
+- twitter:description &rightarrow; og:description
+- twitter:image &rightarrow; og:image
+
 **Card validator**
 
 > Twitter [Card Validator](https://cards-dev.twitter.com/validator)
+
+### Canonical URLs [Advanced SEO]
+
+> https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls
+
+```html
+<link rel="canonical" href="url_absolute_path">
+```
+
+### Google _Search Console_
+
+Register your business and site at https://search.google.com/search-console/
+
+You will submit the sitemap here so that Google knows more about you
+and can deliver better search results.
 
 ## Social Media
 
@@ -156,13 +202,6 @@ on twitter, etc.
 ### Google _My Business_
 
 Register your business and site at https://business.google.com/
-
-### Google _Search Console_
-
-Register your business and site at https://search.google.com/search-console/
-
-You will submit the sitemap here so that Google knows more about you
-and can deliver better search results.
 
 ### Bing _Places_
 
