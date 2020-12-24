@@ -6,9 +6,9 @@ Deploy a sitemap. Most frameworks make it easy.
 
 ## robots.txt
 
-> []
+> Google Search Central – [robots.txt Specification](https://developers.google.com/search/reference/robots_txt)
 
-> [robots.txt](https://moz.com/learn/seo/robotstxt) from moz.com
+> Learn about [robots.txt](https://moz.com/learn/seo/robotstxt) from moz.com
 
 I wanted to keep it simple and use the following by default:
 
