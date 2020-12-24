@@ -1,5 +1,14 @@
 # SEO
 
+## Table of Contents
+
+1. [Sitemap](#sitemap)
+2. [robots.txt](#robotstxt)
+3. [Security](#security)
+4. [Meta Information](#meta-information)
+5. [Social Media](#social-media)
+6. [Directory Listings](#directory-listings)
+
 ## Sitemap
 
 Deploy a sitemap. Most frameworks make it easy.
@@ -27,79 +36,9 @@ Sitemap: https://<my.web.site>/sitemap.xml
 
 > https://www.google.com/webmasters/tools/robots-testing-tool
 
-## Google _My Business_
+## Security
 
-Register your business and site at https://business.google.com/
-
-## Google _Search Console_
-
-Register your business and site at https://search.google.com/search-console/
-
-You will submit the sitemap here so that Google knows more about you
-and can deliver better search results.
-
-## Bing _Places_
-
-Register your business at https://www.bingplaces.com/
-
-Bing allows you to connect to Google Business and maintain listings on their
-platform by syncing to Google Business.
-
-## Description
-
-This sould be no more than 160 chars and ideally in the 120 char range
-to satisfy the Google SERP.
-
-Active sentences are good. Short sentences that communicate simply and clearly are good. Anything that complicates, confuses, or takes effort to understand is bad.
-
-``` html
-<meta name="description" content="<text_of_description>">
-```
-
-> Example: BatteryOS is an operating system for the future of energy.
-
-## Social Media
-
-### Google Email
-
-Create a google email account that reflects the handle you wish to use,
-and is available, on all your other social media accounts.
-
-### Twitter
-
-**Account**
-Create a twitter account with the email account you just created above.
-
-To start with, the twitter profile is a screen shot of the landing page
-resized to fit 1500x500 and the profile description matches the meta
-description of the website.
-
-This can change later as one becomes more sophisticated.
-
-**Add Twitter card meta headers**
-
-Add twitter card meta headers. It's an easy way to make sure that your card looks like you want it to.
-
-> [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
-
-> https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
-
-**Card validator**
-
-> Twitter [Card Validator](https://cards-dev.twitter.com/validator)
-
-## Facebook
-
-Create a Facebook page for the company
-
-Make sure to connect to WhatsApp and provide as much of the information requested.
-
-I continue to use the same description for the page as in meta description, and
-on twitter, etc.
-
-# Security
-
-## SPF
+### SPF
 
 We didn't know who we were going to use for email when we started. So we
 set SP to disallow all email initially.
@@ -138,7 +77,7 @@ Reference:
 
 > https://www.digitalocean.com/community/tutorials/how-to-create-a-spf-record-for-your-domain-with-google-apps
 
-## Apache
+### Apache
 
 Add the following lines to /etc/apache2/apache2.conf
 
@@ -146,3 +85,88 @@ Add the following lines to /etc/apache2/apache2.conf
 ServerSignature Off
 ServerTokens Prod
 ```
+
+## Meta Information
+
+### Description
+
+This sould be no more than 160 chars and ideally in the 120 char range
+to satisfy the Google SERP.
+
+Active sentences are good. Short sentences that communicate simply and clearly are good. Anything that complicates, confuses, or takes effort to understand is bad.
+
+``` html
+<meta name="description" content="<text_of_description>">
+```
+
+> Example: BatteryOS is an operating system for the future of energy.
+
+### Canonical href
+
+### Facebook Open Graph
+
+### Twitter Cards
+
+**Add Twitter card meta headers**
+
+Add twitter card meta headers. It's an easy way to make sure that your card looks like you want it to.
+
+> [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
+
+> https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup
+
+**Card validator**
+
+> Twitter [Card Validator](https://cards-dev.twitter.com/validator)
+
+## Social Media
+
+### Google Email
+
+Create a google email account that reflects the handle you wish to use,
+and is available, on all your other social media accounts.
+
+### LinkedIn
+
+### Twitter
+
+**Account**
+
+Create a twitter account with the email account you just created above.
+
+To start with, the twitter profile is a screen shot of the landing page
+resized to fit 1500x500 and the profile description matches the meta
+description of the website.
+
+This can change later as one becomes more sophisticated.
+
+### Facebook
+
+Create a Facebook page for the company
+
+Make sure to connect to WhatsApp and provide as much of the information requested.
+
+I continue to use the same description for the page as in meta description, and
+on twitter, etc.
+
+### Instagram
+
+## Directory Listings
+
+### Google _My Business_
+
+Register your business and site at https://business.google.com/
+
+### Google _Search Console_
+
+Register your business and site at https://search.google.com/search-console/
+
+You will submit the sitemap here so that Google knows more about you
+and can deliver better search results.
+
+### Bing _Places_
+
+Register your business at https://www.bingplaces.com/
+
+Bing allows you to connect to Google Business and maintain listings on their
+platform by syncing to Google Business.
