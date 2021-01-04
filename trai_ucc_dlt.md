@@ -14,8 +14,8 @@ This registration is required whether sending messages for promotional purposes 
 
 TRAI has authorized the following telecom operators to act as registrars.
 
-1. [Vodafone-Idea](https://www.vilpower.in/) - AWS recommends using vilpower.in.
-2. [Jio](https://trueconnect.jio.com/#/)
+1. [Jio](https://trueconnect.jio.com/#/) (FREE I am told, but have not confirmed)
+2. [Vodafone-Idea](https://www.vilpower.in/)
 3. [Airtel](https://dltconnect.airtel.in/)
 4. [Tata Teleservices](https://telemarketer.tatateleservices.com:8082/)
 5. [BSNL](https://www.ucc-bsnl.co.in/)
@@ -30,9 +30,22 @@ The cost is the same across all registrars.
 
 ## KYC
 
-**Proof of Identity**: PAN Card
+**Prelude**: Keep the following information handy before commencing registration.
 
-**Proof of Address**: GST Registration holds true across most potential registrants; there are several other possible proofs that also work including:
+- Certificate of Incorporation
+- PAN Card
+- TAN Registration
+- GST Registration
+- Address proof
+- Letter of Authorization (LOA)
+
+**Proof of Identity**:
+
+- PAN Card
+
+**Proof of Address**: 
+
+- **GST Registration**
 - TAN Registration
 - FSSAI License
 - Import &amp; Export Registration
@@ -40,11 +53,12 @@ The cost is the same across all registrars.
 - Passport/Voter Registration/Driving License
 
 **Letter of Authorization**:
-[Template](letter-of-authorization.doc)
 
-- Will require image of PAN Card or other Proof of Identity
+- [Template](letter-of-authorization.doc) / Will require image of PAN Card or other Proof of Identity
 
-**Authorized Signatory**: *(The difference between the letter of authorization and the authorized signatory letter is unclear.)*
+**Authorized Signatory**:
+
+- *(The difference between the letter of authorization and the authorized signatory letter is unclear.)*
 
 ## More...
 
