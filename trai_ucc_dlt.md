@@ -4,7 +4,7 @@ Also known as Unsolicited Commercial Communication Management DLT Platform
 
 ## Introduction
 
-TRAI (Telecom Regulatory Authority of India) has mandated that each and every entity wishing to send SMS must be DLT registered.
+[TRAI](https://main.trai.gov.in/) (Telecom Regulatory Authority of India) has mandated that each and every entity wishing to send SMS must be DLT registered.
 
 DLT (Distributed Ledger Technology) is a block-chain based registration system.
 
@@ -12,7 +12,7 @@ This registration is required whether sending messages for promotional purposes 
 
 ## Registrars
 
-TRAI has authorized five telecom operators to act as registrars.
+TRAI has authorized the following telecom operators to act as registrars.
 
 1. [Vodafone-Idea](https://www.vilpower.in/) - AWS recommends using vilpower.in.
 2. [Jio](https://trueconnect.jio.com/#/)
@@ -22,7 +22,13 @@ TRAI has authorized five telecom operators to act as registrars.
 6. [MTNL](https://www.ucc-mtnl.in/)
 7. [Videocon](https://www.smartping.live/entity/register-with)
 
-## KYC Document
+## Cost
+
+Registration costs ₹5,000 + GST, or **₹5,900**.
+
+The cost is the same across all registrars.
+
+## KYC
 
 **Proof of Identity**: PAN Card
 
@@ -33,12 +39,13 @@ TRAI has authorized five telecom operators to act as registrars.
 - Shops and Establishment Registration
 - Passport/Voter Registration/Driving License
 
-**Letter of Authorization**
+**Letter of Authorization**:
+[Template](letter-of-authorization.doc)
+
+- Will require image of PAN Card or other Proof of Identity
 
 **Authorized Signatory**: *(The difference between the letter of authorization and the authorized signatory letter is unclear.)*
 
-## Cost
+## More...
 
-Registration costs ₹5,000 + GST, or **₹5,900**.
-
-The cost is the same across all registrars.
+More information to follow
