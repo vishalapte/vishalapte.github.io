@@ -14,7 +14,7 @@ This registration is required whether sending messages for promotional purposes 
 
 TRAI has authorized five telecom operators to act as registrars.
 
-1. [Jio](https://trueconnect.jio.com/#/) with [screenshots]('trueconnect/index.md')
+1. [Jio](https://trueconnect.jio.com/#/) with [screenshots](trueconnect/)
 2. [Vodafone-Idea](https://www.vilpower.in/) is **terrible**. DO. NOT. USE.
 3. [Airtel](https://dltconnect.airtel.in/)
 4. [Tata Teleservices](https://telemarketer.tatateleservices.com:8082/)
