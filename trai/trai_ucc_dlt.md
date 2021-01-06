@@ -4,7 +4,7 @@ Also known as Unsolicited Commercial Communication Management DLT Platform
 
 ## Introduction
 
-[TRAI](https://main.trai.gov.in/) (Telecom Regulatory Authority of India) has mandated that each and every entity wishing to send SMS must be DLT registered.
+TRAI (Telecom Regulatory Authority of India) has mandated that each and every entity wishing to send SMS must be DLT registered.
 
 DLT (Distributed Ledger Technology) is a block-chain based registration system.
 
@@ -12,10 +12,10 @@ This registration is required whether sending messages for promotional purposes 
 
 ## Registrars
 
-TRAI has authorized the following telecom operators to act as registrars.
+TRAI has authorized five telecom operators to act as registrars.
 
-1. [Jio](https://trueconnect.jio.com/#/) (FREE I am told, but have not confirmed)
-2. [Vodafone-Idea](https://www.vilpower.in/)
+1. [Jio](https://trueconnect.jio.com/#/) with [screenshots]('trueconnect/index.md')
+2. [Vodafone-Idea](https://www.vilpower.in/) is **terrible**. DO. NOT. USE.
 3. [Airtel](https://dltconnect.airtel.in/)
 4. [Tata Teleservices](https://telemarketer.tatateleservices.com:8082/)
 5. [BSNL](https://www.ucc-bsnl.co.in/)
