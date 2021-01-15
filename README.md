@@ -1,6 +1,6 @@
 # vishalapte.github.io
 
-## [SEO](seo)
+## [SEO](seo/)
 
 A checklist for delivering a SEO compliant website/brand.
 
