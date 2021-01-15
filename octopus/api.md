@@ -8,18 +8,77 @@
 
 ## API
 
-### `/spider/report/<report_id>/`
+ALL API calls support the `format` param, regardless of whether by `GET` or `POST`.
+
+### `/spider/report/`
+
+List of all reports descrbed in DataHeader.
+
+Support:
+- `GET`, `POST`
+- `format=[html|json|csv]` 
+- Default: `format=html`
+
+### `/spider/report/<source>/`
+
+List of all reports described in DataHeader for given `<source>`
+
+Support:
+- `GET`, `POST`
+- `format=[html|json|csv]` 
+- Default: `format=html`
+
+### `/spider/report/<source>/<report_id>/`
+
+Support:
+- `GET`, `POST`
+- `format=[html|json|csv]` 
+- Default: `format=html`
 
 Metadata about every report
 
-### `/spider/report/<report_id>/column/<column_name>/`
+- ReportID
+- Title
+- List of columns grouped by column type
+- List of all downloaded files and chart showing timeline of when file was downloaded
 
-Return a list of all unique values for the column if `coltype = FILTER`
+### `/spider/report/<source>/<report_id>/column/<colname>/?format=[json]`
 
-### `/spider/report/<report_id>/data/`
+Support:
+- `GET`, `POST`
+- `format=[html|json|csv]` 
+- Default: `format=html`
 
-ALL downloaded data for a given report
+Return a list of all unique values for the column if
+- `column_name` in list of mapped columns
+- `coltype` = `FILTER`
 
-### `/spider/report/<report_id>/data/?\<filter_column\>=\<value\>&series=\<series_column\>`
+### `/spider/report/<source>/<report_id>/data/`
 
-Search dataset by series and/or for all rows where filter_column equal to value
+Support:
+- `GET`, `POST`
+- `format=[html|json|csv]`
+- Default: `format=json`
+
+Return all downloaded data for a given report. Supported GET/POST params, in order of priority:
+1. `series=<colname>`
+2. `colname=<filter_value>`
+3. `start=<YYYY-MM-DD>`: inclusive of value (greater than or equal to)
+4. `end=<YYYY-MM-DD>`: inclusive of value (less than or equal to)
+5. `lastn=<int>`
+6. `lastndays=<int>`
+7. `format=[json|csv]`
+
+#### param: `series`
+
+- `colname` must be defined in DataColumn
+- `colname` must have coltype=SERIES
+- Support for list of values... `series=colname_a,colname_b,colname_c`
+- Results are returned for all valid values of series. Invalid names are ignored.
+
+#### param: `colname`
+
+- `colname` must be defined in DataColumn 
+- `colname` must have coltype=FILTER
+- Support for list of values... `colname=colname_a,colname_b,colname_c`
+- Results are returned for all valid values of colname. Invalid names are ignored.
