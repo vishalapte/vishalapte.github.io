@@ -1,6 +1,6 @@
 # Octopus
 
-- [Home](index.md)
+- **Home**
 - [Data Model](datamodel.md) 
 - [Data Types](datatypes.md) 
 - [De-duplication](deduplicate.md) 
