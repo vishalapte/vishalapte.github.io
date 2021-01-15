@@ -42,7 +42,16 @@ Metadata about every report
 - List of columns grouped by column type
 - List of all downloaded files and chart showing timeline of when file was downloaded
 
-### `/spider/report/<source>/<report_id>/column/<colname>/?format=[json]`
+### `/spider/report/<source>/<report_id>/column/`
+
+Support:
+- `GET`, `POST`
+- `format=[html|json|csv]` 
+- Default: `format=html`
+
+Return a list of all columns and coltype and any other metadata about column defined in the datamodel.
+
+### `/spider/report/<source>/<report_id>/column/<colname>/`
 
 Support:
 - `GET`, `POST`
