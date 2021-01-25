@@ -8,11 +8,11 @@
 - Broad Reach Power [broadreachpower.com](broadreachpower.com)
 - Form Energy - [formenergy.com](formenergy.com)
 - Key Capture Energy - [keycaptureenergy.com](keycaptureenergy.com)
-- Plus Power [plusenergystorage.com](plusenergystorage.com)
+- Plus Power - [plusenergystorage.com](plusenergystorage.com)
 
 ## Intermediaries
 
-- Bolt Energy [boltenergyservices.com](boltenergyservices.com)
+- Bolt Energy - [boltenergyservices.com](boltenergyservices.com)
 
 ## Consultants
 
@@ -37,5 +37,5 @@
 
 - Center for Climate and Energy Solutions - [c2es.org](c2es.org)
 - Energy Storage Association - [energystorage.org](energystorage.org)
-- ample.tech
+- [ample.tech](ample.tech)
 
