@@ -8,6 +8,7 @@
 - Broad Reach Power [broadreachpower.com](https://broadreachpower.com/)
 - EOS - [eosenergystorage.com/](https://eosenergystorage.com/)
 - Form Energy - [formenergy.com](https://formenergy.com/)
+- Jupiter Power - [jupiterpower.io](https://www.jupiterpower.io/)
 - Key Capture Energy - [keycaptureenergy.com](https://www.keycaptureenergy.com/)
 - Origis Energy - [origisenergy.com](https://www.origisenergy.com/)
 - Plus Power - [plusenergystorage.com](https://www.plusenergystorage.com/)
@@ -45,7 +46,6 @@
 - Stem - [stem.com](stem.com)
 - EnergyX - [energyx.com](energyx.com)
 - Mustang Praire - [mustangpraire.com](mustangpraire.com)
-- Jupiter Power - [jupiterpower.io](https://www.jupiterpower.io/)
 
 ## Marketplace
 
