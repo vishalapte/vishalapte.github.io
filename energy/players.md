@@ -6,15 +6,15 @@
 ## Supply Side
 
 - Broad Reach Power [broadreachpower.com](https://broadreachpower.com/)
+- EOS - [eosenergystorage.com/](https://eosenergystorage.com/)
 - Form Energy - [formenergy.com](https://formenergy.com/)
 - Key Capture Energy - [keycaptureenergy.com](https://www.keycaptureenergy.com/)
+- Origis Energy - [origisenergy.com](https://www.origisenergy.com/)
 - Plus Power - [plusenergystorage.com](https://www.plusenergystorage.com/)
-- AbleGrid - [ablegridenergy.com/](https://ablegridenergy.com/)
-- EOS - [eosenergystorage.com/](https://eosenergystorage.com/)
-- Origis Energy - [origisenergy.com][https://www.origisenergy.com/]
 
 ## Vendors
 
+- AbleGrid - [ablegridenergy.com/](https://ablegridenergy.com/)
 - Ambri - [ambri.com](https://ambri.com/)
 - Bloomenergy - [bloomenergy.com](https://www.bloomenergy.com/)
 - ESS Inc - [essinc.com](https://essinc.com/)
