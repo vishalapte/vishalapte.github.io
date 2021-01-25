@@ -5,10 +5,26 @@
 
 ## Supply Side
 
-- Broad Reach Power [broadreachpower.com](broadreachpower.com)
-- Form Energy - [formenergy.com](formenergy.com)
-- Key Capture Energy - [keycaptureenergy.com](keycaptureenergy.com)
-- Plus Power - [plusenergystorage.com](plusenergystorage.com)
+- Broad Reach Power [broadreachpower.com](https://broadreachpower.com/)
+- Form Energy - [formenergy.com](https://formenergy.com/)
+- Key Capture Energy - [keycaptureenergy.com](https://www.keycaptureenergy.com/)
+- Plus Power - [plusenergystorage.com](https://www.plusenergystorage.com/)
+- AbleGrid - [ablegridenergy.com/](https://ablegridenergy.com/)
+- EOS - [eosenergystorage.com/](https://eosenergystorage.com/)
+- Origis Energy - [origisenergy.com][https://www.origisenergy.com/]
+
+## Vendors
+
+- Ambri - [ambri.com](https://ambri.com/)
+- Bloomenergy - [bloomenergy.com](https://www.bloomenergy.com/)
+- ESS Inc - [essinc.com](https://essinc.com/)
+- FuelCell Energy [fuelcellenergy.com](https://www.fuelcellenergy.com/)
+- GlidePath - [glidepath.com](https://glidepath.net/)
+- Highview Power - [highviewpower.com](https://highviewpower.com/)
+- Lockheed Martin - [lockheedmartin.com](https://www.lockheedmartin.com/en-us/capabilities/energy/energy-storage.html)
+- Plug Power - [plugpower.com](https://www.plugpower.com/)
+- Primus Power - [primuspower.com](https://www.primuspower.com/en/)
+- Zinc8 - [zinc8energy.com](https://www.zinc8energy.com/)
 
 ## Intermediaries
 
@@ -26,16 +42,17 @@
 
 - Voltera Energy - [volteraenergy.com](volteraenergy.com)
 - Enbalance Storage - [enbalancestorage.com](enbalancestorage.com)
-- EOS - [eosenergystorage.com/](eosenergystorage.com)
-- AbleGrid - [ablegridenergy.com/](ablegridenergy.com/)
-- Level 10 - [leveltenenergy.com](leveltenenergy.com)
 - Stem - [stem.com](stem.com)
 - EnergyX - [energyx.com](energyx.com)
 - Mustang Praire - [mustangpraire.com](mustangpraire.com)
+- Jupiter Power - [jupiterpower.io](https://www.jupiterpower.io/)
+
+## Marketplace
+
+- Level 10 - [leveltenenergy.com](leveltenenergy.com)
 
 ## Associations
 
 - Center for Climate and Energy Solutions - [c2es.org](c2es.org)
 - Energy Storage Association - [energystorage.org](energystorage.org)
 - [ample.tech](ample.tech)
-
