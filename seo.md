@@ -30,18 +30,21 @@ Deploy a sitemap. Most frameworks make it easy.
 
 ## robots.txt
 
-> Google Search Central – [robots.txt Specification](https://developers.google.com/search/reference/robots_txt)
+> Google Search Central – [robots.txt Specification][1]
 
-> Learn about [robots.txt](https://moz.com/learn/seo/robotstxt) from moz.com
+> Learn about [robots.txt][2] from moz.com
 
 I wanted to keep it simple and use the following by default:
 
-```
+```text
 User-agent: *
 Disallow: /static/
 
 Sitemap: https://<my.web.site>/sitemap.xml
 ```
+
+[1]:https://developers.google.com/search/reference/robots_txt
+[2]:https://moz.com/learn/seo/robotstxt
 
 ### Twitterbot
 
@@ -173,12 +176,19 @@ Will default to Open Graph protocol if not defined...
 <link rel="canonical" href="url_absolute_path">
 ```
 
-### Google _Search Console_
+### Google / _Search Console_
 
-Register your business and site at https://search.google.com/search-console/
+> https://search.google.com/search-console/
 
 You will submit the sitemap here so that Google knows more about you
 and can deliver better search results.
+
+### Microsoft Bing / _Webmaster Tools_
+
+> https://www.bing.com/webmasters/
+
+DuckDuckGo used to rely on Bing, Yahoo!, and Yandex. Yahoo! doesn't exist
+any more and makes Bing all the more important for DDG search results.
 
 ## Social Media
 
