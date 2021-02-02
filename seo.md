@@ -14,13 +14,17 @@
    - [Facebook Open Graph](#facebook-open-graph)
    - [Twitter Cards](#twitter-cards)
    - [Canonical URLs](#canonical-urls)
-5. [Social Media](#social-media)
+   - [Putting It Together](#putting-it-together)
+5. [Webmaster Tools](#webmaster-tools)
+   - [Google Search Console](#google-search-console)
+   - [Microsoft Bing](#microsoft-bing-webmaster-tools)
+6. [Social Media](#social-media)
    - [Email](#email)
    - [LinkedIn](#linkedin)
    - [Twitter](#twitter)
    - [Facebook](#facebook)
    - [Instagram](#instagram)
-6. [Directory Listings](#directory-listings)
+7. [Directory Listings](#directory-listings)
    - [Google _My Business_](#google-my-business)
    - [Bing _Places_](#bing-places)
 
@@ -164,6 +168,8 @@ Will default to Open Graph protocol if not defined...
 - twitter:description &rightarrow; og:description
 - twitter:image &rightarrow; og:image
 
+SEO engines don't like defaulting and prefer that both og: and twitter: tags are present on header. What should be and what are are not the same thing.
+
 **Card validator**
 
 > Twitter [Card Validator](https://cards-dev.twitter.com/validator)
@@ -176,14 +182,34 @@ Will default to Open Graph protocol if not defined...
 <link rel="canonical" href="url_absolute_path">
 ```
 
-### Google / _Search Console_
+### Putting It Together
+
+_Connecting `meta`, `og:*`, `twitter:*`, and other tags_
+
+**Description** should have the same values
+- `<meta property="description" content="">`
+- `<meta property="og:description" content="">`
+- `<meta name="twitter:description" content="">`
+
+**Title** should have the same values
+- `<meta property="title" content=""`
+- `<meta property="og:title" content="">`
+- `<meta name="twitter:title" content="">`
+
+**Canonical URL** should have the same values
+- `<link rel="canonical" href="">`
+- `<meta property="og:url" content="">`
+
+## Webmaster Tools
+
+### Google _Search Console_
 
 > https://search.google.com/search-console/
 
 You will submit the sitemap here so that Google knows more about you
 and can deliver better search results.
 
-### Microsoft Bing / _Webmaster Tools_
+### Microsoft Bing _Webmaster Tools_
 
 > https://www.bing.com/webmasters/
 
