@@ -12,6 +12,7 @@
 - Key Capture Energy - [keycaptureenergy.com](https://www.keycaptureenergy.com/)
 - Origis Energy - [origisenergy.com](https://www.origisenergy.com/)
 - Plus Power - [plusenergystorage.com](https://www.plusenergystorage.com/)
+- Catalyze Energy - [catalyze.energy](https://catalyze.energy/)
 
 ## Vendors
 
@@ -26,6 +27,10 @@
 - Plug Power - [plugpower.com](https://www.plugpower.com/)
 - Primus Power - [primuspower.com](https://www.primuspower.com/en/)
 - Zinc8 - [zinc8energy.com](https://www.zinc8energy.com/)
+
+## Vendors + Tools
+- AuroraER (London) - [auroraer.com](https://auroraer.com/)
+- ION Energy (Mumbai) - [ionenergy.co](https://www.ionenergy.co/)
 
 ## Intermediaries
 
