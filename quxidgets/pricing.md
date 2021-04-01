@@ -1,9 +1,11 @@
 ## Pricing
 
+### HTML
+
 ```html
 <div class="row pricing-tables">
   <div class="col-12 col-lg-4 mb-4 d-flex">
-    <div class="shark-card">
+    <div class="quxidget-card shadow">
       <div class="row">
         <div class="col-12 col-sm-6 col-lg-12">
           <div class="row px-2">
@@ -23,7 +25,7 @@
         </div>
         <div class="col-12 col-sm-6 col-lg-12">
           <div class="row px-2">
-            <div class="col-12 align-self-end pricing-features shark-card-body">
+            <div class="col-12 align-self-end pricing-features">
               <p>Includes:</p>
               <ul class="fa-ul">
                 {% for feature in plan.features %}
@@ -42,4 +44,53 @@
     </div>
   </div>
 </div>
+```
+
+### CSS
+
+> Included in quxidget.css
+
+```css
+.quxidget-card {
+  padding: 1.25rem 1rem;
+  border: rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  width: 100%;
+}
+```    
+
+### Javascript
+
+> Included in quxidget.js
+
+```javascript
+function maxSelectorHeight(selector) {
+    return Math.max.apply(null, $(selector).map(function () {
+        return $(this).height();
+    }).get());
+}
+
+function equalizeSelectorHeights(selector) {
+    let maxHeight = maxSelectorHeight(selector);
+    $(selector).each(function () {
+        $(this).css('height', maxHeight + "px");
+    });
+}
+```
+
+```javascript
+function sizePricingCards() {
+  let width = $(window).width();
+  if ($(window).width() > 991) {
+    equalizeSelectorHeights('.pricing-description');
+    equalizeSelectorHeights('.pricing-features');
+  }
+}
+
+$(document).ready(function() {
+  sizePricingCards();
+  $(window).resize(function() {
+    sizePricingCards();
+  });
+});
 ```
