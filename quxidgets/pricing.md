@@ -64,8 +64,7 @@
 > Included in quxidget.js
 
 ```javascript
-function maxSelectorHeight(selector)
-{
+function maxSelectorHeight(selector) {
     return Math.max.apply(null, $(selector).map(function () {
         return $(this).height();
     }).get());
