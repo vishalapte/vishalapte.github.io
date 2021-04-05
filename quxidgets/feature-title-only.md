@@ -39,12 +39,12 @@ items = [
       <div class="feature-icon align-self-center">
         <span class="fa-stack fa-2x">
           <i class="fas fa-circle fa-stack-2x"></i>
-         <i class="{{ item.icon }} fa-stack-1x fa-inverse"></i>
+         <i class="item.icon fa-stack-1x fa-inverse"></i>
        </span>
       </div>
       <div class="feature-content align-self-center">
         <div class="font-weight-bold pb-2">
-          {{ item.title }}
+          item.title
         </div>
     </div></div>
   <!-- endfor -->
@@ -62,7 +62,7 @@ items = [
 .section-header h2 {
   font-size: 1.5rem;
   font-weight: 900;
-  margi-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 .feature-icon {
   padding-left: 0;
