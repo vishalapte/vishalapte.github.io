@@ -64,7 +64,7 @@ items = [
 .section-header h2 {
   font-size: 1.5rem;
   font-weight: 900;
-  margi-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 .feature-icon {
   padding-left: 0;
