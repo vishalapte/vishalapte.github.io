@@ -2,7 +2,7 @@
 
 ### JSON
 
-```json
+```python
 items = [
   {
     "icon": "<fontawesome icon>",
