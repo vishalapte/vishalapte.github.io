@@ -23,7 +23,7 @@ items = [
 > devices upto but not including an iPad, and 3 column display on every 
 > device starting with an iPad.
 
-```
+```html
 <div>
   <div class="row">
     <div class="col-12 ">
@@ -34,7 +34,7 @@ items = [
   </div>
 
   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
-  {% for item in items %}
+  <!-- for item in items -->
     <div class="col mb-4"><div class="d-inline-flex">
       <div class="feature-icon align-self-center">
         <span class="fa-stack fa-2x">
@@ -47,7 +47,7 @@ items = [
           {{ item.title }}
         </div>
     </div></div>
-  {% endfor %}
+  <!-- endfor -->
   </div>
 </div>
 ```
