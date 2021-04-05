@@ -39,14 +39,14 @@ items = [
       <div class="feature-icon align-self-start">
         <span class="fa-stack fa-2x">
           <i class="fas fa-circle fa-stack-2x"></i>
-         <i class="{{ item.icon }} fa-stack-1x fa-inverse"></i>
+         <i class="item.icon fa-stack-1x fa-inverse"></i>
        </span>
       </div>
       <div class="feature-content align-self-start">
         <div class="font-weight-bold pb-2">
-          {{ item.title }}
+          item.title
         </div>
-        <div>{{ item.description }}</div>
+        <div>item.description</div>
       </div>
     </div></div>
   <!-- endfor -->
