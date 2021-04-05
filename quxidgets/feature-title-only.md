@@ -23,7 +23,7 @@ items = [
 > devices upto but not including an iPad, and 3 column display on every 
 > device starting with an iPad.
 
-```html
+```
 <div>
   <div class="row">
     <div class="col-12 ">
