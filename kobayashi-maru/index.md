@@ -99,21 +99,21 @@ class TeamMatch(models.Model):
 - Migrate all three models
 - Take a screenshot of the command to migrate and the output and save the screenshot to `test_data`
 
-### 12. Create a method on the `Team` model that returns the total number of matches played by the team
+### 12. Create a method on the `Team` model that returns the total number of matches played by the team {: #get-matches }
 
 - Name of the method: `matches_played`
 - Return type: `int`
 - Return value: total number of matches played by the team
 
 
-### 13. Create a method on the `Team` model that returns the total number of matches won by the team
+### 13. Create a method on the `Team` model that returns the total number of matches won by the team {: #get-wins }
 
 - Name of the method: `matches_won`
 - Return type: `int`
 - Return value: total number of matches won by the team
 
 
-### 14. Create a method on the `Team` model that returns the total number of matches lost by the team
+### 14. Create a method on the `Team` model that returns the total number of matches lost by the team  {: #get-losses }
 
 - Name of the method: `matches_lost`
 - Return type: `int`
@@ -235,7 +235,7 @@ class TeamMatch(models.Model):
 ### 29. Create a signal that is triggered when a new `TeamMatch` is created
 
 - The signal should update the `Team` model with the number of matches played, won and lost
-- Use the methods created in 12, 13 and 14
+- Use the methods created in [12](#get-matches), [13](#get-wins) and [14](#get-losses)
 
 ## Admin
 
