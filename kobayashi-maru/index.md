@@ -226,7 +226,7 @@ class TeamMatch(models.Model):
 - won: total number of matches won `<int>`
 - lost: total number of matches lost `<int>`
 
-### 26. Replace the methods for the `Team` model, created in 12, 13, and 14, to use the new fields created in 23.
+### 26. Replace the methods for the `Team` model, created in 12, 13, and 14, to use the new fields created in 25.
 
 ### 27. Update migrations for model
 
