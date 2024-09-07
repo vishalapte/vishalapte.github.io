@@ -2,11 +2,19 @@ Education • **Advanced Math**
 
 ## Why study advanced math at all?
 
-Gaurav Tevatia (tevatia@gmail.com) shares his thoughts:
+I am resharing a (strongly held) view shared with me that I thought was more studied than others...
 
 > I think training for advanced math is very valuable even if you don't end up doing the competition part of it. My reason for why is going to sound very biased but here goes:
-
-> Math teaching in high school, across the world now, has become what I call monkey math -- the teacher introduces a bunch of patterns and the kid who can remember the maximum number of patterns wins. No-one has to think about a problem for hours or days and push themselves to solve an original problem. The fabled Indian IIT entrance process too has been corrupted, where students are being professionally coached for IIT classes starting grade 5. So kids aren't really learning how to solve a problem, they just have the enhanced capacity to identify a larger set of patterns. The standard American system is by far the weakest, because not only are the topics taught in high school limited, they are taught at a very superficial level. The letter grading system further obscures the level of understanding where even an A+ doesn't mean a 100%. Added to this the pressure to go beyond AP, leads to students spending even less time learning how to solve tough problems, a skill that is essential to computer science, engineering and mathematics. So most students who have done AP Calculus and feel they are at the top of their Math class will still struggle in a college Math class because that is the first time they will be solving a truly unseen problem. Of course these are still smart kids so they muddle through but with a lot more stress than had they been trained right. Ironically, most colleges also now cater to a student who just wants to get by, by offering a different version of the Math course and labeling the real course an honors course or course for Math Majors or CS Majors only. In my view, if you want to consider yourself good at Math, you must be able to attempt harder problems and become good at problem solving more than studying new topics.
+>
+> Math teaching in high school, across the world now, has become what I call monkey math -- the teacher introduces a bunch of patterns and the kid who can remember the maximum number of patterns wins. No-one has to think about a problem for hours or days and push themselves to solve an original problem.
+>
+> The fabled Indian IIT entrance process too has been corrupted, where students are being professionally coached for IIT classes starting grade 5. So kids aren't really learning how to solve a problem, they just have the enhanced capacity to identify a larger set of patterns.
+>
+> The standard American system is by far the weakest, because not only are the topics taught in high school limited, they are taught at a very superficial level. The letter grading system further obscures the level of understanding where even an A+ doesn't mean a 100%. Added to this the pressure to go beyond AP, leads to students spending even less time learning how to solve tough problems, a skill that is essential to computer science, engineering and mathematics. So most students who have done AP Calculus and feel they are at the top of their Math class will still struggle in a college Math class because that is the first time they will be solving a truly unseen problem. Of course these are still smart kids so they muddle through but with a lot more stress than had they been trained right.
+>
+> Ironically, most colleges also now cater to a student who just wants to get by, by offering a different version of the Math course and labeling the real course an honors course or course for Math Majors or CS Majors only.
+>
+> In my view, if you want to consider yourself good at Math, you must be able to attempt harder problems and become good at problem solving more than studying new topics.
 
 ## The Art of Problem Solving (AoPS)
 
