@@ -48,13 +48,15 @@ There are two levels [American Mathematics Contest 10](https://artofproblemsolvi
 
 The [American Invitational Mathematics Examination (AIME)](https://artofproblemsolving.com/wiki/index.php/American_Invitational_Mathematics_Examination) is the second exam in the series of exams used to challenge bright students on the path toward choosing the team that represents the United States at the International Mathematics Olympiad (IMO). While most AIME participants are high school students, some bright middle school students also qualify each year.
 
-High scoring AIME students are invited to take the prestigious United States of America Mathematics Olympiad (USAMO) for qualification from taking the AMC 12 or United States of America Junior Mathematics Olympiad (USAJMO) for qualification from taking the AMC 10.
-
 High scoring AMC 10 and AMC 12 students are invited to take the American Invitational Mathematics Examination (AIME). The AIME is a 15 question, 3 hour exam taken by high scorers on the AMC 10, AMC 12, and USAMTS competitions. Qualification through USAMTS only is rare, however. Each answer is an integer from 000 to 999, inclusive, making guessing almost futile. Wrong answers receive no credit, while correct answers receive one point of credit, making the maximum score 15. Problems generally increase in difficulty as the exam progresses - the first few questions are generally AMC 12 level, while the later questions become extremely difficult in comparison. Calculators are not permitted.
+
+High scoring AIME students are invited to take the prestigious 
+- United States of America Mathematics Olympiad (USAMO) for qualification from taking the AMC 12 or
+- United States of America Junior Mathematics Olympiad (USAJMO) for qualification from taking the AMC 10.
 
 Getting through the AoPS material and seeing how well you do in the AMC10/AMC12 in itself should be a good benchmark. 
 
-If you do well, it certainly counts for another large bucket at a geeky school like MIT. Even If you don't do well, hopefully this will help you do better at math related classes in college.
+If you do well, it certainly counts for at schools like MIT. Even If you don't do well, it will only help do better at math related classes in college.
 
 ## Is there a community?
 
