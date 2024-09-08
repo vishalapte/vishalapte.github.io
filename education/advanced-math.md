@@ -2,7 +2,7 @@ Education • **Advanced Math**
 
 ## Why study advanced math at all?
 
-I am resharing a (strongly held) view shared with me that I thought was more studied than others...
+A friend and fellow parent recently said to me:
 
 > I think training for advanced math is very valuable even if you don't end up doing the competition part of it. My reason for why is going to sound very biased but here goes:
 >
@@ -16,16 +16,19 @@ I am resharing a (strongly held) view shared with me that I thought was more stu
 >
 > In my view, if you want to consider yourself good at Math, you must be able to attempt harder problems and become good at problem solving more than studying new topics.
 
+## Problem Solving
+
+In [The Math Evangelist Who Preaches Problem-Solving](https://www.quantamagazine.org/richard-rusczyk-is-a-math-evangelist-who-preaches-problem-solving-20220913/), the founder of Art of Problem Solving (AoPS) puts across his argument in an elegant form.
+
 ## The Art of Problem Solving (AoPS)
 
-In [The Math Evangelist Who Preaches Problem-Solving](https://www.quantamagazine.org/richard-rusczyk-is-a-math-evangelist-who-preaches-problem-solving-20220913/), the founder of Art of Problem Solving (AoPS) puts across his argument in a more elegant form.
+AoPS is the main training program for the American Math Contest, International Math Olympiad, etc. AoPS has an [online](https://artofproblemsolving.com/online) offering.
 
-AoPS is the main training program for the American Math Contest, International Math Olympiad, etc.
-[AoPS Online](https://artofproblemsolving.com/online)
+### Curriculum
 
-Their curriculum for is:
-- [Grades 1-5](https://beastacademy.com/)
-- [Grades 5-12](https://artofproblemsolving.com/online/)
+[Grades 1-5](https://beastacademy.com/)
+
+[Grades 5-12](https://artofproblemsolving.com/online/)
 
 ### Books 
 
@@ -42,21 +45,27 @@ Intermediate Curriculum
 - [Precalculus](https://artofproblemsolving.com/store/book/precalculus)
 - [Calculus](https://artofproblemsolving.com/store/book/calculus)
 
-## How do you benchmark yourself?
+## Benchmarking yourself
+
+### American Mathematics Contest (AMC)
 
 There are two levels [American Mathematics Contest 10](https://artofproblemsolving.com/wiki/index.php/AMC_10) and [American Mathematics Contest 12](https://artofproblemsolving.com/wiki/index.php/AMC_12). These are administered by the [Mathematical Association of America](https://maa.org/). You get a score which you can report to colleges if you like. If you are a certain level you get invited to take the next level of exam which also has a score and so on. 
 
-The [American Invitational Mathematics Examination (AIME)](https://artofproblemsolving.com/wiki/index.php/American_Invitational_Mathematics_Examination) is the second exam in the series of exams used to challenge bright students on the path toward choosing the team that represents the United States at the International Mathematics Olympiad (IMO). While most AIME participants are high school students, some bright middle school students also qualify each year.
+Getting through the AoPS material and seeing how well you do in the AMC10/AMC12 is a good benchmark unto itself.
 
-High scoring AMC 10 and AMC 12 students are invited to take the American Invitational Mathematics Examination (AIME). The AIME is a 15 question, 3 hour exam taken by high scorers on the AMC 10, AMC 12, and USAMTS competitions. Qualification through USAMTS only is rare, however. Each answer is an integer from 000 to 999, inclusive, making guessing almost futile. Wrong answers receive no credit, while correct answers receive one point of credit, making the maximum score 15. Problems generally increase in difficulty as the exam progresses - the first few questions are generally AMC 12 level, while the later questions become extremely difficult in comparison. Calculators are not permitted.
+If you do well, it certainly counts for at schools like MIT. Even If you don't do well, it will only help do better at math related classes in college.
+
+### American Invitational Mathematics Examination (AIME)
+
+The [American Invitational Mathematics Examination (AIME)](https://artofproblemsolving.com/wiki/index.php/American_Invitational_Mathematics_Examination) is the second exam in the series of exams used to challenge bright students on the path toward choosing the team that represents the United States at the International Mathematics Olympiad (IMO). High scoring AMC 10 and AMC 12 students are invited to take the AIME. While most AIME participants are high school students, some bright middle school students also qualify each year.
+
+The AIME is a 15 question, 3 hour exam taken by high scorers on the AMC 10, AMC 12, and USAMTS competitions. Qualification through USAMTS only is rare, however. Each answer is an integer from 000 to 999, inclusive, making guessing almost futile. Wrong answers receive no credit, while correct answers receive one point of credit, making the maximum score 15. Problems generally increase in difficulty as the exam progresses - the first few questions are generally AMC 12 level, while the later questions become extremely difficult in comparison. Calculators are not permitted.
+
+### Mathematics Olympiad (USAMO/USAJMO)
 
 High scoring AIME students are invited to take the prestigious 
 - United States of America Mathematics Olympiad (USAMO) for qualification from taking the AMC 12 or
 - United States of America Junior Mathematics Olympiad (USAJMO) for qualification from taking the AMC 10.
-
-Getting through the AoPS material and seeing how well you do in the AMC10/AMC12 in itself should be a good benchmark. 
-
-If you do well, it certainly counts for at schools like MIT. Even If you don't do well, it will only help do better at math related classes in college.
 
 ## Is there a community?
 
