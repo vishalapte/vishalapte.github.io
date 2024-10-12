@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.markdown-body h1:first-of-type {
+  font-size: 1.25em !important;
+  padding-bottom: 0.75em !important;
+}
+a:hover {
+  text-decoration: none !important;
+}
+
+.markdown-body table {
+  display: table !important;
+  width: 100% !important;
+  min-width: 600px;
+  border-collapse: collapse;
+  font-family: -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif;
+  font-feature-settings: "tnum";
+  font-size: 0.875rem;
+}
+.markdown-body table th, .markdown-body table td {
+  padding: 4px 8px;
+  border-width: 1px 0;
+  text-align: left;
+  vertical-align: top;
+}
+.markdown-body table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .markdown-body table {
+    display: block;
+    min-width: unset;
+  }
+  .markdown-body table th, .markdown-body table td {
+    padding: 4px;
+  }
+}
