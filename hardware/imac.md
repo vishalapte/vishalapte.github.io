@@ -1,5 +1,6 @@
 [Hardware](index.md) &#151;
 **iMac (Retina 5K, 27-inch, 2020)** &#151;
+[Home](home.md) &#151;
 [Office Kit](office.md)
 
 ## iMac (Retina 5K, 27-inch 2020)
@@ -42,17 +43,11 @@ Links
 
 - [How to upgrade iMac 2020 RAM and save up to $2,000...](https://9to5mac.com/2020/08/09/how-to-upgrade-2020-imac-ram-video-5k-27-inch-128-gb/)
 
-
-
 ## UPS
 
 You don't want an expensive machine and unpredictable power supply. 
 The cost of a UPS is money well spent because it will protect your
 iMac.
-
-APC UPS Model: BR1000G-IN 1 KVA Battery Backup
-<br>BUY Here: https://www.amazon.in/gp/product/B0038ZTZ3W/
-<br>Cost: **₹13,699.00**
 
 Links
 - [iMac power consumption and thermal output](https://support.apple.com/en-us/HT201918)
@@ -60,10 +55,3 @@ Links
 <br>Thermal output: 252 BTU/h (Idle) / 1,007 BTU/h (CPU Max)
 - [How to Choose the Best Uninterruptible Power Supply for Your Needs](https://mbsdirect.com/mbs-blog/article-how-to-choose-the-best-uninterruptible-power-supply-for-your-needs)
 
-
-## Mouse Pad
-
-The AmazonBasics is a good basic mouse pad and is the only other extra that one must buy to get started.
-
-BUY Here: https://www.amazon.in/dp/B06X3W3YQD
-<br>Cost: **₹348**
