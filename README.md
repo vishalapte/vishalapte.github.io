@@ -1,21 +1,24 @@
-# vishalapte.github.io
+## Education
+- [Advanced Math](education/advanced-math.md)
+
+## Notebook
+- [BESS](notebook/bess/)
+
+## Hardware
+- [Home](hardware/home.md)
+- [Office](hardware/office.md) 
+
+## SysAdmin
+- [Domain/DNS Management](network/)
+
+## Software Development
+- [Django](https://www.djangoproject.com/)
+  - [Ubuntu](django/ubuntu.md)
 
 ## Websites
 
-Delivering a simple yet professional website requires combining many elements.
-We cover some less obvious items related to deploying, publishing, and branding
-a website.
+Delivering a simple yet professional website requires combining many elements. We cover some less obvious items related to deploying, publishing, and branding a website.
 
-### SSL Certificates
+- [Let's Encrypt](letsencrypt.md) for SSL Certificates
+- [SEO](seo.md)
 
-I use [Let's Encrypt][1]
-
-[1]:letsencrypt.md
-
-### [SEO](seo.md)
-
-A checklist for delivering a SEO compliant website/brand.
-
-## [TRAI (UCC) DLT](trai/dlt/)
-
-Information about and steps for registering per TRAI UCC DLT to send SMS.
