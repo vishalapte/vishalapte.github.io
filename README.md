@@ -22,3 +22,7 @@ Delivering a simple yet professional website requires combining many elements. W
 - [Let's Encrypt](letsencrypt.md) for SSL Certificates
 - [SEO](seo.md)
 
+## Delaware Corporations Information System
+
+- [Name Search](https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx)
+- [Annual Report](https://icis.corp.delaware.gov/Ecorp/logintax.aspx?FilingType=FranchiseTax)
