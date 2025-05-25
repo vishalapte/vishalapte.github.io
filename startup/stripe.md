@@ -1,8 +1,12 @@
 # Stripe Sessions
 
-## May 8, 2025
+## May 7, 2025
 
-[A conversation with Jony Ive](https://youtu.be/wLb9g_8r-mE)
+[A conversation with Sir Jony Ive KBE](https://youtu.be/wLb9g_8r-mE)
+
+## May 6, 2025
+
+[A conversation with Mark Zuckerberg](https://youtu.be/gF12Xn3C-0c)
 
 ## May 21, 2024
 
