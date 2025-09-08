@@ -1,0 +1,8 @@
+title: UID Site Redesign Proposal
+description: Prepared by 1E9 Advisors (enine.dev)
+remote_theme: just-the-docs/just-the-docs
+url: https://vishalapte.github.io
+baseurl: ""
+
+just_the_docs:
+  search_enabled: true
